@@ -1,0 +1,10 @@
+.cog__alram {
+  background-color: tomato;
+  border-radius: 15px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  left: 73px;
+  bottom: 20px;
+  }
+}
